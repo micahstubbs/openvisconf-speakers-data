@@ -1,0 +1,1 @@
+# openvisconf-speakers-data
